@@ -2,6 +2,14 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"name": "dtig-us.github.io",
+			"path": "../../../Digital Transformation Innovators Group/Dev/dtig-us.github.io"
+		},
+		{
+			"name": "CICD.wiki",
+			"path": "../../../Digital Transformation Innovators Group/Dev/CICD.wiki"
 		}
 	],
 	"settings": {}
